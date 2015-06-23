@@ -1,0 +1,177 @@
+ts_gymnast,startnr,club,niveau,max_mh,toestel,blok,is_aktief
+1 Tessa - Annemijn,1,SPARTA,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+2 Caitlin - Sophie,2,FLIK-FLAK,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+3 Jessie - Niamh,3,TRIFFIS / FLIK-FLAK,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+4 Annick - Selina,4,TVIJ,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+6 Gerlissa - Fabienne,5,KDO,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+7 Jaysira - Julia,6,FLIK-FLAK,A Jeugd/Junior Meisjes,0,trampoline 3 synch,1,1
+8 Zilver - Max,1,KDO,A Jeugd/Junior Jongens,0,trampoline 3 synch,2,1
+9 Emre - Nard,2,FLIK-FLAK / FORZA,A Jeugd/Junior Jongens,0,trampoline 3 synch,2,0
+10 Mel - Daan,3,TVIJ / Topsport Noord,A Jeugd/Junior Jongens,0,trampoline 3 synch,2,1
+11 Bram - Milco,4,Topsport Noord - Turnoss,A Jeugd/Junior Jongens,0,trampoline 3 synch,2,1
+21 Sven - Roel,5,KDO / TRIFFIS,A Senior Heren,0,trampoline 3 synch,2,1
+22 Maxim - Jimmy,6,TRIFFIS /PRO PATRIA,A Senior Heren,0,trampoline 3 synch,2,1
+23 Joey - Kevin,7,Topsport Noord / TSV,A Senior Heren,0,trampoline 3 synch,2,1
+12 Bente - Lara,1,TVIJ / TRIFFIS,A Senior Dames,0,trampoline 3 synch,3,1
+13 Esther - Milou,2,TSV,A Senior Dames,0,trampoline 3 synch,3,1
+14 Demi - Melissa,3,FLIK-FLAK / SPARTA,A Senior Dames,0,trampoline 3 synch,3,1
+15 Floor - Claudia,4,KDO / TSV,A Senior Dames,0,trampoline 3 synch,3,1
+16 Kirsten - Tara,5,FLIK-FLAK,A Senior Dames,0,trampoline 3 synch,3,0
+17 Estrea - Melanie,6,FLIK-FLAK / PRO PATRIA,A Senior Dames,0,trampoline 3 synch,3,0
+18 Emmelijn - Madelief,7,TURNOSS,A Senior Dames,0,trampoline 3 synch,3,1
+19 Bo - Pascal,8,TRIFFIS,A Senior Heren,0,trampoline 3 synch,3,1
+20 Gaby - Bloem,9,KDO,A Senior Heren,0,trampoline 3 synch,3,1
+24 Melissa - Dilara,1,NIKA,B Jeugd Meisjes,8,trampoline 3 synch,4,1
+25 Anke-Tessa,2,SPARTA,B Jeugd Meisjes,8,trampoline 3 synch,4,1
+35 Julia - Laurie,3,KDO,B Jeugd Meisjes,8,trampoline 3 synch,4,1
+38 Dian-Denise,4,OMNIA,B Jeugd Meisjes,8,trampoline 3 synch,4,1
+26 Siebe - Daan,5,TVIJ,B jeugd Jongens,8,trampoline 3 synch,4,1
+27 Bryan - Finn,6,KDO / SPRINGBOKKEN,B jeugd Jongens,8,trampoline 3 synch,4,1
+41 Erik - Rick,7,AGILITAS,B junior Jongens,8,trampoline 3 synch,4,1
+28 Renee - Fleur,1,FLIK-FLAK / TURNOSS,B Junior Meisjes,8,trampoline 3 synch,5,1
+29 Zoë - Maaike,2,TVIJ,B Junior Meisjes,8,trampoline 3 synch,5,0
+30 Femke - Maddy,3,TURNOSS,B Junior Meisjes,8,trampoline 3 synch,5,1
+31 Ilse - Yara,4,NIKA - Hoogland,B Junior Meisjes,8,trampoline 3 synch,5,1
+32 Quinty - Demi,5,PRO PATRIA,B Junior Meisjes,8,trampoline 3 synch,5,1
+33 Sharona - Shaya,6,PRO PATRIA,B Junior Meisjes,8,trampoline 3 synch,5,1
+34 Tamar - Gina,7,SPARTA,B Junior Meisjes,8,trampoline 3 synch,5,1
+36 Julia - Susanne,8,SPRINGBOKKEN,B Junior Meisjes,8,trampoline 3 synch,5,1
+37 Britt - Jennifer,9,TVIJ,B Junior Meisjes,8,trampoline 3 synch,5,1
+39 Denise - Cindy,10,WIK-FTC / TSV,B Junior Meisjes,8,trampoline 3 synch,5,1
+40 Eline - Felicity,11,KDO / RGV,B Junior Meisjes,8,trampoline 3 synch,5,1
+42 Amanthis - Quinta,1,TRIFFIS / VEERKRACHT,B Senior Dames,8,trampoline 3 synch,6,1
+43 Lara - Danielle,2,NIKA,B Senior Dames,8,trampoline 3 synch,6,1
+44 Hylke - Julia,3,TSV,B Senior Dames,8,trampoline 3 synch,6,1
+45 Emma - Regina,4,VEERKRACHT,B Senior Dames,8,trampoline 3 synch,6,1
+46 Esmay - Janine,5,TSV,B Senior Dames,8,trampoline 3 synch,6,1
+47 Denice - Janelle,6,NIKA,B Senior Dames,8,trampoline 3 synch,6,1
+65 LAURIE BEIJLEVELD,1,KDO,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+66 DIAN VAN WIERINGEN,2,OMNIA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+67 DEMI BOSMA,3,PRO PATRIA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+68 MEGHAN KEEVY,4,Topsport Noord,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+69 DENISE SPRANGERS,5,OMNIA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+70 MANON SCHOUWINK,6,Topsport Noord,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+71 TESSA BOEVE,7,SPARTA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+72 JULIA SZKODZINSKA,8,KDO,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+73 ILSE WOLKENFELT,9,NIKA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+74 ISA MEIJERINK,10,SPARTA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+75 ANKE BOEVE,11,SPARTA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+76 DILARA UCAR,12,NIKA,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+77 FEMKE VAN DER VENNE,13,TURNOSS,B Jeugd Meisjes,8,trampoline 1 ind,1,1
+78 DANI MOOIBROEK,1,SPARTA,B Jeugd Meisjes,8,trampoline 1 ind,2,1
+79 MILOU BOSCHER,2,Topsport Noord,B Jeugd Meisjes,8,trampoline 1 ind,2,1
+80 ELINE BEIJLEVELD,3,KDO,B Jeugd Meisjes,8,trampoline 1 ind,2,1
+81 MELISSA VAN VOORST,4,NIKA,B Jeugd Meisjes,8,trampoline 1 ind,2,1
+82 KOEN WINKELHORST,5,RGV - Ruurlo,B jeugd Jongens,8,trampoline 1 ind,2,1
+83 OSCAR WILDEBOER,6,CLETON SPORTS,B jeugd Jongens,8,trampoline 1 ind,2,1
+84 RICK VELDHUIZEN,7,AGILITAS,B jeugd Jongens,8,trampoline 1 ind,2,1
+85 BRYAN ALTHOF,8,KDO,B jeugd Jongens,8,trampoline 1 ind,2,1
+86 DAAN OVERBEEK,9,TVIJ,B jeugd Jongens,8,trampoline 1 ind,2,1
+87 FINN MUNSTERS,10,SPRINGBOKKEN,B jeugd Jongens,8,trampoline 1 ind,2,1
+88 RENS VERHOEF,11,KDO,B jeugd Jongens,8,trampoline 1 ind,2,1
+89 SIEBE WIELENGA,12,TVIJ - IJmuiden,B jeugd Jongens,8,trampoline 1 ind,2,1
+123 RIK WINTERS,1,CLETON SPORTS,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+124 MARNIX VAN EIJK,2,PRO PATRIA,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+125 TOMER BERLINSKI,3,TSV,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+126 BJORN VAN BEEK,4,CLETON SPORTS,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+127 RYAN BRESSER,5,FLIK-FLAK,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+128 MILKO VAN VALEN,6,IMPALA,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+129 GUIDO GROEFSEMA,7,VEERKRACHT,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+130 ERIK NIESING,8,AGILITAS,B Junior/Senior Heren,8,trampoline 1 ind,3,1
+9 FABIENNE FAAS,1,KDO,A Junior Meisjes,0,trampoline 1 ind,4,1
+10 MILOU MARTOREDJO,2,TSV,A Junior Meisjes,0,trampoline 1 ind,4,1
+11 BLOEM SCHMITZ,3,KDO,A Junior Meisjes,0,trampoline 1 ind,4,1
+12 GERLISSA VAN DE GROEP,4,KDO,A Junior Meisjes,0,trampoline 1 ind,4,1
+13 MIONA V.D. WIEL,5,FLIK-FLAK,A Junior Meisjes,0,trampoline 1 ind,4,0
+14 NIAMH SLATTERY,6,TRIFFIS,A Junior Meisjes,0,trampoline 1 ind,4,1
+15 MELANIE VAN DUIN,7,PRO PATRIA,A Junior Meisjes,0,trampoline 1 ind,4,1
+16 IRIS DE VELDE HARSENHORST,8,SPARTA,A Junior Meisjes,0,trampoline 1 ind,4,0
+17 TESSA DE LA PARRA,9,SPARTA,A Junior Meisjes,0,trampoline 1 ind,4,1
+18 SELINA VAN MAREN,10,TVIJ,A Junior Meisjes,0,trampoline 1 ind,4,1
+19 JESSIE VAN OOIJEN,11,FLIK-FLAK,A Junior Meisjes,0,trampoline 1 ind,4,1
+30 SAVANNAH DECKERS,1,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,5,0
+31 JACKIE LIONAHR,2,PRO PATRIA,A Senior Dames,0,trampoline 1 ind,5,1
+32 REA LENDERS,3,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,5,0
+33 CARLIJN BLEKKINK,4,Topsport Noord,A Senior Dames,0,trampoline 1 ind,5,1
+34 BO BET,5,TRIFFIS,A Senior Dames,0,trampoline 1 ind,5,1
+35 JAIMY VAN ZUNDERT,6,PRO PATRIA,A Senior Dames,0,trampoline 1 ind,5,1
+36 LISA VAN ESCH,7,TURNOSS,A Senior Dames,0,trampoline 1 ind,5,1
+37 ROMANA SCHURING,8,TVIJ,A Senior Dames,0,trampoline 1 ind,5,0
+38 MELISSA SCHUUR,9,SPARTA,A Senior Dames,0,trampoline 1 ind,5,1
+39 DAPHNE VAN DER HAVE,10,CLETON SPORTS,A Senior Dames,0,trampoline 1 ind,5,1
+40 GABY BROERSMA,11,KDO,A Senior Dames,0,trampoline 1 ind,5,1
+41 ASHLEY KUIJPER,12,PRO PATRIA,A Senior Dames,0,trampoline 1 ind,5,1
+42 ESTHER VAN VOORTHUIZEN,13,TSV,A Senior Dames,0,trampoline 1 ind,5,1
+43 MADELIEF MARKX,1,TURNOSS,A Senior Dames,0,trampoline 1 ind,6,1
+44 KIRSTEN BOERSMA,2,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,6,0
+45 JOSKA GROENDIJK,3,TSV,A Senior Dames,0,trampoline 1 ind,6,1
+46 ESTREA WIGGERS,4,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,6,0
+47 FLOOR MEIJERING,5,KDO,A Senior Dames,0,trampoline 1 ind,6,1
+48 DEMI VAN HOEK,6,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,6,1
+49 PASCAL WIEBERING,7,TRIFFIS,A Senior Dames,0,trampoline 1 ind,6,1
+50 LARA SCHUT,8,TRIFFIS,A Senior Dames,0,trampoline 1 ind,6,1
+51 EMMELIJN SMITS,9,TURNOSS,A Senior Dames,0,trampoline 1 ind,6,1
+52 CLAUDIA DE GRAAF,10,TSV,A Senior Dames,0,trampoline 1 ind,6,1
+53 TARA FOKKÉ,11,FLIK-FLAK,A Senior Dames,0,trampoline 1 ind,6,0
+54 BENTE GELEIJN,12,TVIJ,A Senior Dames,0,trampoline 1 ind,6,1
+90 EVA VAN GERWEN,1,TURNOSS,B Junior Meisjes,8,trampoline 2 ind,1,1
+91 SHAYA VAN HOUDT,2,PRO PATRIA,B Junior Meisjes,8,trampoline 2 ind,1,1
+92 QUINTY LAKHO,3,PRO PATRIA,B Junior Meisjes,8,trampoline 2 ind,1,1
+93 SUSANNE WEIJERS,4,SPRINGBOKKEN,B Junior Meisjes,8,trampoline 2 ind,1,1
+94 FLEUR KUIJPERS,5,TURNOSS,B Junior Meisjes,8,trampoline 2 ind,1,1
+95 JERESA HATUMENA,6,CLETON SPORTS,B Junior Meisjes,8,trampoline 2 ind,1,1
+96 RENEE VELTMAN,7,FLIK-FLAK,B Junior Meisjes,8,trampoline 2 ind,1,1
+97 JULIA VAN DEN HEUVEL,8,SPRINGBOKKEN,B Junior Meisjes,8,trampoline 2 ind,1,1
+98 MADDY HAVENAAR,9,TURNOSS,B Junior Meisjes,8,trampoline 2 ind,1,1
+99 GINA VAN DEN BRINK,10,SPARTA,B Junior Meisjes,8,trampoline 2 ind,1,1
+100 JANELLE GROENENDIJK,11,NIKA,B Junior Meisjes,8,trampoline 2 ind,1,1
+101 MAAIKE SPRING IN T VELD,12,TVIJ,B Junior Meisjes,8,trampoline 2 ind,1,1
+102 CINDY VAN DER MEIJ,1,TSV,B Junior Meisjes,8,trampoline 2 ind,2,1
+103 ZOË HEKELAAR,2,TVIJ,B Junior Meisjes,8,trampoline 2 ind,2,1
+104 JULIA DALLINGA,3,TSV,B Junior Meisjes,8,trampoline 2 ind,2,1
+105 BRITT KLOUS,4,TVIJ,B Junior Meisjes,8,trampoline 2 ind,2,1
+106 SHARONA WESTENBERG,5,PRO PATRIA,B Junior Meisjes,8,trampoline 2 ind,2,1
+107 YARA TOBÉ,6,NIKA,B Junior Meisjes,8,trampoline 2 ind,2,1
+108 JENNIFER VAN MAREN,7,TVIJ,B Junior Meisjes,8,trampoline 2 ind,2,1
+109 DENISE PRAK,8,WIK-FTC,B Junior Meisjes,8,trampoline 2 ind,2,1
+110 LARA WOLKENFELT,9,NIKA,B Junior Meisjes,8,trampoline 2 ind,2,1
+111 FELICITY BUFFART,10,RGV,B Junior Meisjes,8,trampoline 2 ind,2,1
+112 TAMAR FOPPEN,11,SPARTA,B Junior Meisjes,8,trampoline 2 ind,2,1
+113 DANIELLE OOSTDIJK,1,NIKA,B Senior Dames,8,trampoline 2 ind,3,1
+114 ESMAY POSTEMA,2,TSV,B Senior Dames,8,trampoline 2 ind,3,1
+115 QUINTA BAAIJENS,3,VEERKRACHT,B Senior Dames,8,trampoline 2 ind,3,1
+116 AMANTHIS ANGENENT,4,TRIFFIS,B Senior Dames,8,trampoline 2 ind,3,1
+117 HYLKE HALSEMA,5,TSV,B Senior Dames,8,trampoline 2 ind,3,1
+118 JANINE DOORENBOS,6,TSV,B Senior Dames,8,trampoline 2 ind,3,1
+119 EMMA CAARLS,7,VEERKRACHT,B Senior Dames,8,trampoline 2 ind,3,1
+120 DANIËLLE BRANDT,8,TRIFFIS,B Senior Dames,8,trampoline 2 ind,3,0
+121 DENICE VIS,9,NIKA,B Senior Dames,8,trampoline 2 ind,3,1
+122 REGINA OMTA,10,VEERKRACHT,B Senior Dames,8,trampoline 2 ind,3,1
+20 MAX VAN LANGEN,1,KDO,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+21 LUUK SWINKELS,2,FLIK-FLAK,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+22 NARD TIELEMAN,3,FORZA,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,0
+23 TIM JONKMAN,4,TSV,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+24 ZILVER SCHMITZ,5,KDO,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+25 EMRE SORMAN,6,FLIK-FLAK,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+26 MEL VAN DE KOLK,7,TVIJ,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+27 MILCO ABRAHAMS,8,TURNOSS,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+28 DAAN BERGSMA,9,Topsport Noord,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+29 BRAM MARSKAMP,10,Topsport Noord,A Jeugd/Junior Jongens,0,trampoline 2 ind,4,1
+1 ANNEMIJN CORNELISSEN,1,SPARTA,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+2 JENNIFER KOUWENHOVEN,2,Topsport Noord,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+3 NADIA LA VOS,3,PRO PATRIA,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+4 ANNICK HOUTHUIZEN,4,TVIJ,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+5 SOPHIE STROES,5,FLIK-FLAK,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+6 JAYSIRA BRON,6,FLIK-FLAK,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+7 JULIA VAN HAM,7,FLIK-FLAK,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+8 CAITLIN VAN DEN HEUVEL,8,FLIK-FLAK,A Jeugd Meisjes,0,trampoline 2 ind,5,1
+55 BJÖRN HILLEBRANDT,1,FLIK-FLAK,A Senior Heren,0,trampoline 2 ind,6,1
+56 JIMMY DEMMERS,2,TRIFFIS,A Senior Heren,0,trampoline 2 ind,6,1
+57 SVEN HOP,3,KDO,A Senior Heren,0,trampoline 2 ind,6,1
+58 ROEL TEILLERS,4,TRIFFIS,A Senior Heren,0,trampoline 2 ind,6,1
+59 ORLANDO GÖTSCHIN,5,PRO PATRIA,A Senior Heren,0,trampoline 2 ind,6,1
+60 JURN BOOLTINK,6,CLETON SPORTS,A Senior Heren,0,trampoline 2 ind,6,1
+61 MELVIN DOKTER,7,OMNIA,A Senior Heren,0,trampoline 2 ind,6,1
+62 KEVIN SUURD,8,TSV,A Senior Heren,0,trampoline 2 ind,6,1
+63 JOEY STUIVER,9,Topsport Noord,A Senior Heren,0,trampoline 2 ind,6,1
+64 MAXIM VAN ZEIJL,10,PRO PATRIA,A Senior Heren,0,trampoline 2 ind,6,1
