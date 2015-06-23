@@ -1,44 +1,13 @@
 <?php
 session_start();
-//include stylesheet for formatting
-//include("http://localhost/php/stylesheet.html");
-//include("http://localhost/php/gen_view_ddmenu.html");
-//include("stylesheet.php");
 include("config.php");
 include("mysql.php");
-//include("prefs.php");
-//include("filter.php");
-//include("auth.php");
-//include("login.php");
-/*include("functions.php");*/
-/*include("view.php");*/
-//include("gen_header.php");
-//include("menu.php");
-/*include("new_pagina.php");*/
-/*include("mod_pagina.php");*/
-//include("gen_form.php");
-//include("gen_view.php");
-//include("view_sort.php");
-//include("upload_class.php");
-//include("list_pictures.php");
-//include_once("php_functions.php");
 
 if (isset($_REQUEST['topcmd'])) {
   $topcmd  = $_REQUEST['topcmd'];
  } else {
   $topcmd = '';
  }
-
-#if ($bottomcmd == "logout")
-# {
-#  unset($_SESSION['uid']);
-#  unset($_SESSION['pwd']);
-#
-#  $_SESSION = array();
-#  session_destroy();
-#  //include("http://localhost/php/login.html");
-#  exit;
-# }
 
 $mysql = new CMysql();
 $mysql->connect( $hostname, $mysql_user, $mysql_pass);
