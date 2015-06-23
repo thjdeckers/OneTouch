@@ -1,0 +1,35 @@
+CACHE MANIFEST
+#rev 6
+FALLBACK:
+/ /offline.html
+NETWORK:
+/scores/74bupload.php
+/scores/74bcompetition_settings.php
+/scores/74bget_participants.php
+CACHE:
+/OneTouch/blue_led.png
+/OneTouch/green_led.png
+/OneTouch/red_led.png
+/OneTouch/orange_led.png
+/OneTouch/b_backspace.png
+/OneTouch/b_search.png
+/OneTouch/b_settings.png
+/OneTouch/b_save.png
+/OneTouch/b_move.png
+/OneTouch/b_up.png
+/OneTouch/b_dn.png
+/OneTouch/b_line.png
+/OneTouch/b_next.png
+/OneTouch/b_prev.png
+/OneTouch/b_ff.png
+/OneTouch/b_fr.png
+/OneTouch/b_presentation.png
+/OneTouch/b_flag_nl.png
+/OneTouch/b_flag_en.png
+/OneTouch/b_flag_de.png
+/OneTouch/b_flag_es.png
+/OneTouch/utilities.js
+/OneTouch/utilities.js
+/OneTouch/i18n.js
+/OneTouch/localizedStrings_0v74b.js
+/OneTouch/OneTouch_0v74b.html
