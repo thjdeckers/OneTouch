@@ -18,7 +18,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Vi backup files
-*.~
+*~
 
 # =========================
 # Operating System Files
