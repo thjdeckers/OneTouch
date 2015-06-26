@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html manifest="/OneTouch_0v74b.manifest">
+<html manifest="/OneTouch.manifest">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
                 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -7,7 +7,7 @@
 		<title>OneTouch trampoline jury App v0.74b</title>     
                 <script type="text/javascript" src="/OneTouch/utilities.js" charset="utf-8"></script>
                 <script type="text/javascript" src="/OneTouch/i18n.js" charset="utf-8"></script>
-                <script type="text/javascript" src="/OneTouch/localizedStrings_0v74b.js" charset="utf-8"></script>
+                <script type="text/javascript" src="/OneTouch/localizedStrings.js" charset="utf-8"></script>
                 <script type="text/javascript">
 /*
     <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no" />
@@ -4316,7 +4316,7 @@ e.document.body["client"+b]:e.nodeType===9?Math.max(e.documentElement["client"+b
                                       wup.value  = win.value;
 				      cgn.value  = gymnast_nr;
 				      cen.value  = exercise;
-                                      frm.action = document.getElementById('input_web_server').value + '/scores/74bupload.php';
+                                      frm.action = document.getElementById('input_web_server').value + '/scores/upload.php';
                                       frm.target = 'upload_popup_frame';
 				      upload_cmd.value = 'upload';
 				      frm.submit();
@@ -4364,28 +4364,28 @@ e.document.body["client"+b]:e.nodeType===9?Math.max(e.documentElement["client"+b
 				document.getElementById('participants_list').value = '';
                                 switch(sbt) {
                                    case "create_" + popup_name:
-                                      frm.action = document.getElementById('input_web_server').value + '/scores/74b' + popup_name + '.php';
+                                      frm.action = document.getElementById('input_web_server').value + '/scores/' + popup_name + '.php';
                                       frm.target=popup_name + '_frame';
 				      settings_cmd.value = 'create';
 				      frm.submit();
                                       return false;
                                       break;
                                    case "register_" + popup_name:
-                                      frm.action = document.getElementById('input_web_server').value + '/scores/74b' + popup_name + '.php';
+                                      frm.action = document.getElementById('input_web_server').value + '/scores/' + popup_name + '.php';
                                       frm.target=popup_name + '_frame';
 				      settings_cmd.value = 'register';
 				      frm.submit();
                                       return false;
                                       break;
                                    case "get_participants":
-                                      frm.action = document.getElementById('input_web_server').value + '/scores/74b' + sbt + '.php';
+                                      frm.action = document.getElementById('input_web_server').value + '/scores/' + sbt + '.php';
                                       frm.target=popup_name + '_frame';
 				      settings_cmd.value = 'get_participants';
 				      frm.submit();
                                       return false;
                                       break;
                                    case "logout":
-                                      frm.action = document.getElementById('input_web_server').value + '/scores/74b' + popup_name + '.php';
+                                      frm.action = document.getElementById('input_web_server').value + '/scores/' + popup_name + '.php';
                                       frm.target=popup_name + '_frame';
 				      settings_cmd.value = 'logout';
 				      frm.submit();
