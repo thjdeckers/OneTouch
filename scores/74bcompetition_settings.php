@@ -50,7 +50,7 @@ if ($cmd == "create") {
 		 $naam = $_REQUEST['wedstrijd_naam'];
                  $competition_logged_in = 1;
                  $session_id = session_id();
-                 $may_release = get_expired($jury_registered,$_REQUEST['wedstrijd_id']);
+                 $may_release = '';
                  print "wedstrijd id: $wedstrijd_id<BR>";
                  print "password: $password<BR>";
 	      }
