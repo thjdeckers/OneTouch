@@ -1,4 +1,4 @@
-<?
+<?php
 $hostname = "localhost";
 $mysql_user = "<enter username>";
 $mysql_pass = "<enter passwd>";
