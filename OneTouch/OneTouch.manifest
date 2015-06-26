@@ -3,9 +3,9 @@ CACHE MANIFEST
 FALLBACK:
 / /offline.html
 NETWORK:
-/scores/74bupload.php
-/scores/74bcompetition_settings.php
-/scores/74bget_participants.php
+/scores/upload.php
+/scores/competition_settings.php
+/scores/get_participants.php
 CACHE:
 /OneTouch/blue_led.png
 /OneTouch/green_led.png
@@ -31,5 +31,5 @@ CACHE:
 /OneTouch/utilities.js
 /OneTouch/utilities.js
 /OneTouch/i18n.js
-/OneTouch/localizedStrings_0v74b.js
-/OneTouch/OneTouch_0v74b.html
+/OneTouch/localizedStrings.js
+/OneTouch/OneTouch.html
