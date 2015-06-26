@@ -14,7 +14,7 @@ $mysql->usedb( $dbname);
 
 $mysql->set_main_table($main_table);
 $mysql->set_main_form($main_form);
-$mysql->set_coll_cns($coll_cns);
+#$mysql->set_coll_cns($coll_cns);
 
 
 mysql_select_db($dbname) or die("Cannot open database $dbname");
@@ -25,6 +25,7 @@ print "<body>";
 $competition_logged_in = 0;
 $jury_logged_in = 0;
 $jury_nr = 0;
+
 #print "cmd: $cmd<BR>";
 
 if ($cmd == "create") {
@@ -48,6 +49,8 @@ if ($cmd == "create") {
                  $wedstrijd_id = mysql_insert_id();
 		 $naam = $_REQUEST['wedstrijd_naam'];
                  $competition_logged_in = 1;
+                 $session_id = session_id();
+                 $may_release = get_expired($jury_registered,$_REQUEST['wedstrijd_id']);
                  print "wedstrijd id: $wedstrijd_id<BR>";
                  print "password: $password<BR>";
 	      }
