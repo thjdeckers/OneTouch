@@ -188,6 +188,7 @@ if ($cmd == "logout") {
                 }
 	      } else {
                    $competition_logged_in = 0;
+                   $may_release = '';
               }
 	   } else {
 	      print "Onjuist wachtwoord of wedstrijd nummer<BR>";
