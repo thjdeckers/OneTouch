@@ -25,7 +25,7 @@ CREATE TABLE `blokken` (
   `startnr` varchar(16) NOT NULL default '0',
   `exercise` int(11) NOT NULL default '0',
   UNIQUE KEY `blokken_id` (`blokken_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=9 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -41,7 +41,7 @@ CREATE TABLE `club` (
   `land` varchar(32) NOT NULL default '',
   UNIQUE KEY `club_id` (`club_id`),
   KEY `naam` (`naam`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=482 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -56,7 +56,7 @@ CREATE TABLE `gymnast` (
   `ref_club` bigint(32) NOT NULL default '0',
   `year_of_birth` year(4) NOT NULL default '0000',
   UNIQUE KEY `gymnast_id` (`gymnast_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=6182 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -70,7 +70,7 @@ CREATE TABLE `level` (
   `omschrijving` varchar(128) NOT NULL default '',
   `max_moeilijkheid` float NOT NULL default '0',
   UNIQUE KEY `level_id` (`level_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=289 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -96,7 +96,7 @@ CREATE TABLE `participant` (
   `ranking_2` int(11) NOT NULL default '0',
   `ranking_3` int(11) NOT NULL default '0',
   UNIQUE KEY `participant_id` (`participant_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=9466 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -121,7 +121,7 @@ CREATE TABLE `scores` (
   `jumps` int(2) NOT NULL default '0',
   `max_jump` int(2) NOT NULL default '0',
   UNIQUE KEY `score_id` (`score_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1064 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
 
 -- --------------------------------------------------------
 
@@ -159,4 +159,4 @@ CREATE TABLE `wedstrijd` (
   `jury_11` varchar(64) NOT NULL default '',
   `jury_11_last_uploaded` timestamp NULL default '0000-00-00 00:00:00',
   UNIQUE KEY `wedstrijd_id` (`wedstrijd_id`)
-) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=74 ;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
