@@ -48,8 +48,7 @@ if (isset($_REQUEST['delimiter'])) {
 
 if (isset($_FILES['csv_file']['name'])) {
   $csv_file = $_FILES['csv_file']['name'];
-  #$target_path = "/scores/";
-  $target_path = "/var/www/vhosts/savannahdeckers.nl/httpdocs/scores/";
+  $target_path = preg_replace("!{$_SERVER['SCRIPT_NAME']}$!", '', $_SERVER['SCRIPT_FILENAME']);
 
   $target_path = $target_path . basename( $_FILES['csv_file']['name']); 
   print "tmp: " . $_FILES['csv_file']['tmp_name'] . ", target_path: $target_path<BR>";
