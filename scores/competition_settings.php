@@ -45,7 +45,6 @@ if ($cmd == "create") {
                  $password = createRandomPassword();
                  $query = "INSERT INTO `wedstrijd` (naam, is_aktief, is_locked, password) values('" . $_REQUEST['wedstrijd_naam'] . "','1','0','$password')";
                  $result = $mysql->query($query);
-                 $number = mysql_numrows($result);
                  $wedstrijd_id = mysql_insert_id();
 		 $naam = $_REQUEST['wedstrijd_naam'];
                  $competition_logged_in = 1;
