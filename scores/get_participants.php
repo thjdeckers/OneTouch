@@ -16,7 +16,7 @@ $mysql->usedb( $dbname);
 
 $mysql->set_main_table($main_table);
 $mysql->set_main_form($main_form);
-$mysql->set_coll_cns($coll_cns);
+#$mysql->set_coll_cns($coll_cns);
 
 $participants_list = "";
 
