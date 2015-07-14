@@ -246,7 +246,7 @@ function get_expired($lc_jury_registered,$lc_wedstrijd_id) {
                                 $number = mysql_numrows($result);
                                 if (mysql_result($result,0) < 500) {
                                     # last registered or uploaded less than 500 seconds ago
- 		                    if ($still_jury_registered == '') {
+ 		                    if ($still_registered == '') {
  			                $still_registered = $val;
 		                    } else {
 			                $still_registered = $still_registered . "," . $val;
