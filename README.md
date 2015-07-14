@@ -6,5 +6,6 @@ By flipping the tablet the total score can be displayed to the audience and ther
 App localization is available for Dutch, English, German, French, Spanish and Russian.
 
 A video instruction with Dutch and English subtitles can be found at https://www.youtube.com/watch?v=OduZ-8L-dOI
+A new video tutorial how to create and setup the MySQL database for uploading participants and scores will be published here shortly.
 
 The app name is derived both from the touch interface and from trampolining terminology: One Touch is a short warming up before the actual exercise: gymnasts are allowed to do one skill, landing on the trampoline once.  
