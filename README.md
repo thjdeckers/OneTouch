@@ -7,6 +7,6 @@ App localization is available for Dutch, English, German, French, Spanish and Ru
 
 A video instruction with Dutch and English subtitles can be found at https://www.youtube.com/watch?v=OduZ-8L-dOI
 
-A new video tutorial how to create and setup the MySQL database for uploading participants and scores will be published here shortly.
+A video tutorial how to create and setup the MySQL database for uploading participants and scores can be found here: https://youtu.be/huZpTE9eZ6s
 
 The app name is derived both from the touch interface and from trampolining terminology: One Touch is a short warming up before the actual exercise: gymnasts are allowed to do one skill, landing on the trampoline once.  
